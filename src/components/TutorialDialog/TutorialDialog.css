@@ -1,0 +1,24 @@
+  .tutorialPaper {
+	  background-color: rgba(0,0,0,0.75) !important;
+	  border-radius: 10px !important;
+	  color: white !important;
+	  letter-spacing: 2px;
+  }
+
+  .tutorialPaper div {
+	  color: white !important;
+  }
+
+  .tutorialPaper h3{
+  	  text-align: center !important;
+ 	  color: white !important;
+  }
+
+  .tutorialPaper span {
+	line-height: 20px !important;
+	text-align: left !important;
+  }
+
+  button div span {
+	  letter-spacing: 2px !important;
+  }

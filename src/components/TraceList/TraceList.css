@@ -1,0 +1,7 @@
+.listItem div div {
+	padding: 16px 16px 16px 48px !important;
+}
+
+.listItem div div div {
+	padding: initial !important;
+}
