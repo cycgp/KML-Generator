@@ -25,6 +25,6 @@ const StyledDiv = styled.div`
 `
 
 const ToolTip = (props) => (
-	<StyledDiv style={props.visible ? {opacity:0.9} : {opacity:0}}>Rest All</StyledDiv>
+	<StyledDiv style={props.visible ? {opacity:0.9} : {opacity:0}}>Reset All</StyledDiv>
 )
 export default ToolTip;
